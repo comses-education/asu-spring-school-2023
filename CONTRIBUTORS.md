@@ -10,3 +10,6 @@ This GitHub classroom repository was based off https://github.com/education/gith
 - Marco Janssen
 
 Thanks to the CoMSES Winter School participants who are piloting this material for (hopefully!) providing constructive feedback!
+
+Student participants:
+-Dina Ziganshina
